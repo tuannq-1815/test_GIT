@@ -1,2 +1,7 @@
 test GIT commit
+<<<<<<< HEAD
 test GIT difffe
+=======
+test GIT diff
+abcd
+>>>>>>> branch-moi

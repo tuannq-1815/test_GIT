@@ -4,4 +4,8 @@ test GIT difffe
 =======
 test GIT diff
 abcd
+<<<<<<< HEAD
 >>>>>>> branch-moi
+=======
+akhjhjkah
+>>>>>>> be4fb2b618bc5aedae1d47ee8a932ba2da2796ac
